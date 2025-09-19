@@ -1,0 +1,720 @@
+{
+  "term1": "python tutorial",
+  "term2": "javascript tutorial",
+  "totalResults1": 1000000,
+  "totalResults2": 1000000,
+  "stats1": {
+    "totalViews": 187811411,
+    "totalLikes": 4833841,
+    "count": 50,
+    "videos": [
+      {
+        "videoId": "_uQrJ0TkZlc",
+        "title": "Python Full Course for Beginners",
+        "viewCount": 45775160,
+        "likeCount": 1214686,
+        "publishedAt": "2019-02-18T15:00:08Z"
+      },
+      {
+        "videoId": "K5KVEU3aaeQ",
+        "title": "Python Full Course for Beginners [2025]",
+        "viewCount": 3251152,
+        "likeCount": 81799,
+        "publishedAt": "2025-02-12T12:30:31Z"
+      },
+      {
+        "videoId": "rfscVS0vtbw",
+        "title": "Learn Python - Full Course for Beginners [Tutorial]",
+        "viewCount": 47672761,
+        "likeCount": 1102738,
+        "publishedAt": "2018-07-11T18:00:42Z"
+      },
+      {
+        "videoId": "t8pPdKYpowI",
+        "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+        "viewCount": 6503898,
+        "likeCount": 166032,
+        "publishedAt": "2021-03-05T14:10:17Z"
+      },
+      {
+        "videoId": "fWjsdhR3z3c",
+        "title": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy)",
+        "viewCount": 984946,
+        "likeCount": 23024,
+        "publishedAt": "2021-05-26T12:32:40Z"
+      },
+      {
+        "videoId": "b093aqAZiPU",
+        "title": "\ud83d\udc69\u200d\ud83d\udcbb Python for Beginners Tutorial",
+        "viewCount": 3956782,
+        "likeCount": 86569,
+        "publishedAt": "2021-03-25T10:00:08Z"
+      },
+      {
+        "videoId": "Ro_MScTDfU4",
+        "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+        "viewCount": 208698,
+        "likeCount": 7033,
+        "publishedAt": "2024-11-18T14:00:24Z"
+      },
+      {
+        "videoId": "kqtD5dpn9C8",
+        "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+        "viewCount": 22720013,
+        "likeCount": 523473,
+        "publishedAt": "2020-09-16T13:00:20Z"
+      },
+      {
+        "videoId": "KnL59AXT3Xs",
+        "title": "Seaborn Tutorial in Python for Beginners \ud83d\udcca Line, Scatter & Histogram Plots Explained",
+        "viewCount": 1235,
+        "likeCount": 0,
+        "publishedAt": "2025-09-18T08:36:19Z"
+      },
+      {
+        "videoId": "nluUYtejoIE",
+        "title": "Python Basics: Your FIRST Program in Under a Minute! \ud83d\ude80",
+        "viewCount": 535809,
+        "likeCount": 8245,
+        "publishedAt": "2024-06-21T07:55:33Z"
+      },
+      {
+        "videoId": "qwAFL1597eM",
+        "title": "Python Tutorial for Beginners (with mini-projects)",
+        "viewCount": 939923,
+        "likeCount": 19976,
+        "publishedAt": "2023-09-19T14:33:56Z"
+      },
+      {
+        "videoId": "q2-pnQffZik",
+        "title": "Learn Python for FREE in 2025",
+        "viewCount": 569267,
+        "likeCount": 15812,
+        "publishedAt": "2024-12-31T02:30:33Z"
+      },
+      {
+        "videoId": "80yIVH2aOy0",
+        "title": "python programming|python for beginners|python full course",
+        "viewCount": 290823,
+        "likeCount": 5749,
+        "publishedAt": "2025-06-06T00:51:25Z"
+      },
+      {
+        "videoId": "Z1Yd7upQsXY",
+        "title": "Python Tutorial for Absolute Beginners #1 - What Are Variables?",
+        "viewCount": 9328967,
+        "likeCount": 202981,
+        "publishedAt": "2017-12-26T14:57:53Z"
+      },
+      {
+        "videoId": "mRMmlo_Uqcs",
+        "title": "you need to learn Python RIGHT NOW!! // EP 1",
+        "viewCount": 2748010,
+        "likeCount": 110765,
+        "publishedAt": "2021-08-14T17:22:45Z"
+      },
+      {
+        "videoId": "mB0EBW-vDSQ",
+        "title": "Do THIS instead of watching endless tutorials - how I\u2019d learn Python FAST\u2026",
+        "viewCount": 322275,
+        "likeCount": 14649,
+        "publishedAt": "2025-05-16T15:43:06Z"
+      },
+      {
+        "videoId": "W-8j4MrsX2s",
+        "title": "Amazing Flower Design using Python turtle \ud83d\udc22 #python #coding #funny #viral #trending #design",
+        "viewCount": 1187041,
+        "likeCount": 50854,
+        "publishedAt": "2023-05-24T13:15:02Z"
+      },
+      {
+        "videoId": "IR2D0rrF2ow",
+        "title": "Python in Excel\u203c\ufe0f #excel #python",
+        "viewCount": 404154,
+        "likeCount": 9204,
+        "publishedAt": "2023-10-27T13:00:14Z"
+      },
+      {
+        "videoId": "9Os0o3wzS_I",
+        "title": "Python Tutorial for Beginners 8: Functions",
+        "viewCount": 1249667,
+        "likeCount": 24829,
+        "publishedAt": "2017-05-17T19:00:01Z"
+      },
+      {
+        "videoId": "qEwnlMBaLfc",
+        "title": "Python in Excel - Beginner Tutorial",
+        "viewCount": 449754,
+        "likeCount": 6198,
+        "publishedAt": "2023-09-21T07:00:21Z"
+      },
+      {
+        "videoId": "Gx5qb1uHss4",
+        "title": "10 Important Python Concepts In 20 Minutes",
+        "viewCount": 966739,
+        "likeCount": 29611,
+        "publishedAt": "2024-08-07T09:05:05Z"
+      },
+      {
+        "videoId": "eWRfhZUzrAc",
+        "title": "Python for Beginners \u2013 Full Course [Programming Tutorial]",
+        "viewCount": 3756365,
+        "likeCount": 72064,
+        "publishedAt": "2022-08-09T12:54:23Z"
+      },
+      {
+        "videoId": "fXxUYb0s-pc",
+        "title": "Impress your crush using Python Code \u2764\ufe0f",
+        "viewCount": 1315445,
+        "likeCount": 24001,
+        "publishedAt": "2022-04-07T05:03:39Z"
+      },
+      {
+        "videoId": "St48epdRDZw",
+        "title": "How I Would Learn Python FAST (if I could start over)",
+        "viewCount": 1367129,
+        "likeCount": 48860,
+        "publishedAt": "2024-06-19T15:04:05Z"
+      },
+      {
+        "videoId": "iju6xKZacGQ",
+        "title": "I Create Excel file in 5sec using Python || python excel || python pandas || python to excel #python",
+        "viewCount": 831637,
+        "likeCount": 11220,
+        "publishedAt": "2024-03-26T16:00:35Z"
+      },
+      {
+        "videoId": "Sl4zqWLC9Xw",
+        "title": "Fastest way to learn Python #coding #python #programming",
+        "viewCount": 2108258,
+        "likeCount": 197033,
+        "publishedAt": "2023-08-30T13:00:21Z"
+      },
+      {
+        "videoId": "WCM65ION4nE",
+        "title": "Python Syllabus | Python for Beginners | Complete Python Course #pythonlearning",
+        "viewCount": 528458,
+        "likeCount": 5964,
+        "publishedAt": "2024-01-25T09:38:59Z"
+      },
+      {
+        "videoId": "ix9cRaBkVe0",
+        "title": "Python Full Course for free \ud83d\udc0d (2024)",
+        "viewCount": 6329840,
+        "likeCount": 210711,
+        "publishedAt": "2024-08-20T13:00:54Z"
+      },
+      {
+        "videoId": "tJ39Bf4OvrI",
+        "title": "Python code in hindi for beginners|apna college|python tutorial for beginners.",
+        "viewCount": 520757,
+        "likeCount": 11186,
+        "publishedAt": "2025-01-05T03:07:15Z"
+      },
+      {
+        "videoId": "hEgO047GxaQ",
+        "title": "#1 Python Tutorial for Beginners | Introduction to Python",
+        "viewCount": 5798346,
+        "likeCount": 81707,
+        "publishedAt": "2018-06-30T13:30:28Z"
+      },
+      {
+        "videoId": "P5An-rTtM_k",
+        "title": "Amazing Rotating Python Graphics Design using Turtle \ud83d\udc22 #python #pythonshorts #coding #viral #design",
+        "viewCount": 1740992,
+        "likeCount": 64678,
+        "publishedAt": "2023-05-14T12:15:01Z"
+      },
+      {
+        "videoId": "IfKlGhRc7Dc",
+        "title": "Python Roadmap for Beginners! \ud83d\udc0d Learn Python Programming Step-by-Step\" #python #conding",
+        "viewCount": 1503544,
+        "likeCount": 23879,
+        "publishedAt": "2024-06-16T06:40:42Z"
+      },
+      {
+        "videoId": "GfWRxr1OBm4",
+        "title": "Python Basics: The Best Way to Learn Python Programming (2024)",
+        "viewCount": 956715,
+        "likeCount": 14121,
+        "publishedAt": "2024-12-29T01:57:30Z"
+      },
+      {
+        "videoId": "Ix5cKThAa3E",
+        "title": "Python Coding Basics: Get Started with VSCode",
+        "viewCount": 248752,
+        "likeCount": 4746,
+        "publishedAt": "2025-01-30T14:41:56Z"
+      },
+      {
+        "videoId": "-cXWzWdtErI",
+        "title": "Python turtle code | Beautiful design using python pydroid 3 app | python tutorial",
+        "viewCount": 335039,
+        "likeCount": 14939,
+        "publishedAt": "2022-02-13T07:19:38Z"
+      },
+      {
+        "videoId": "g9fIWtSexLs",
+        "title": "ALL Python Programmers Should Know This!! #python #programming #coding",
+        "viewCount": 2489716,
+        "likeCount": 145215,
+        "publishedAt": "2022-11-14T00:38:55Z"
+      },
+      {
+        "videoId": "fHk-U1cyYmM",
+        "title": "Print the given pattern in python? ( python for beginners )",
+        "viewCount": 229464,
+        "likeCount": 3866,
+        "publishedAt": "2022-12-04T13:50:13Z"
+      },
+      {
+        "videoId": "E1kDTUf6bsA",
+        "title": "Password generator in Python!",
+        "viewCount": 711719,
+        "likeCount": 48310,
+        "publishedAt": "2023-04-15T11:30:06Z"
+      },
+      {
+        "videoId": "dZ8VrmzYL2A",
+        "title": "Pygame - Display Image in Pygame python || Pygame python tutorial #python #pygame",
+        "viewCount": 507496,
+        "likeCount": 6969,
+        "publishedAt": "2023-07-13T10:43:16Z"
+      },
+      {
+        "videoId": "eaMDDseIL7E",
+        "title": "How to create graphics using Python turtle \ud83d\udc0d\ud83d\udc22 #coding",
+        "viewCount": 1823096,
+        "likeCount": 0,
+        "publishedAt": "2022-08-24T16:52:44Z"
+      },
+      {
+        "videoId": "5B41CPvYMjY",
+        "title": "The Ultimate Python Roadmap: From Beginner to Expert in 2025!",
+        "viewCount": 772734,
+        "likeCount": 15531,
+        "publishedAt": "2023-08-11T18:10:35Z"
+      },
+      {
+        "videoId": "-qiMuTAnnlU",
+        "title": "How to Learn Python Fast in 2024? | Learn Python With ChatGPT | Intellipaat #Shorts #Python #ChatGPT",
+        "viewCount": 304731,
+        "likeCount": 17172,
+        "publishedAt": "2024-10-31T12:11:45Z"
+      },
+      {
+        "videoId": "vMV1s-1BKvc",
+        "title": "Python courses for Beginners (FREE)",
+        "viewCount": 800885,
+        "likeCount": 40698,
+        "publishedAt": "2024-04-18T10:30:27Z"
+      },
+      {
+        "videoId": "EmxXYzX6iEs",
+        "title": "How to visualize data with Python in Excel. \ud83e\udd2f #excel  #python #tutorial",
+        "viewCount": 48823,
+        "likeCount": 1081,
+        "publishedAt": "2024-06-12T22:33:00Z"
+      },
+      {
+        "videoId": "JlXV0doQ2N8",
+        "title": "Lambda function in Python? #20 #python #interview #pythontutorial",
+        "viewCount": 49596,
+        "likeCount": 1185,
+        "publishedAt": "2023-10-08T07:43:17Z"
+      },
+      {
+        "videoId": "Sg4GMVMdOPo",
+        "title": "Start coding with PYTHON in 5 minutes! \ud83d\udc0d",
+        "viewCount": 435930,
+        "likeCount": 12581,
+        "publishedAt": "2024-08-16T16:08:32Z"
+      },
+      {
+        "videoId": "VNOz6vEHjEY",
+        "title": "How to learn python in mobile #viral #python #tutorial #code",
+        "viewCount": 328211,
+        "likeCount": 6648,
+        "publishedAt": "2023-08-16T06:49:30Z"
+      },
+      {
+        "videoId": "HlJWVsdZALM",
+        "title": "How to create a python project using pycharm IDE #shorts #python #tutorials #project #shortvideos",
+        "viewCount": 336929,
+        "likeCount": 7974,
+        "publishedAt": "2021-09-01T07:54:14Z"
+      },
+      {
+        "videoId": "H2EJuAcrZYU",
+        "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+        "viewCount": 937154,
+        "likeCount": 20263,
+        "publishedAt": "2023-07-25T13:00:21Z"
+      },
+      {
+        "videoId": "e6vPt_e9sRw",
+        "title": "Python Tutorial Deutsch | Komplettkurs f\u00fcr Anf\u00e4nger",
+        "viewCount": 626576,
+        "likeCount": 17012,
+        "publishedAt": "2024-05-07T14:00:35Z"
+      }
+    ]
+  },
+  "stats2": {
+    "totalViews": 87923397,
+    "totalLikes": 2149252,
+    "count": 50,
+    "videos": [
+      {
+        "videoId": "W6NZfCO5SIk",
+        "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+        "viewCount": 14414286,
+        "likeCount": 247115,
+        "publishedAt": "2018-04-24T02:37:33Z"
+      },
+      {
+        "videoId": "lkIFF4maKMU",
+        "title": "100+ JavaScript Concepts you Need to Know",
+        "viewCount": 2700244,
+        "likeCount": 100022,
+        "publishedAt": "2022-11-22T15:04:57Z"
+      },
+      {
+        "videoId": "Ihy0QziLDf0",
+        "title": "JavaScript tutorial for beginners \ud83c\udf10",
+        "viewCount": 598489,
+        "likeCount": 8642,
+        "publishedAt": "2023-10-14T18:00:38Z"
+      },
+      {
+        "videoId": "c-I5S_zTwAc",
+        "title": "Learn JAVASCRIPT in just 5 MINUTES (2020)",
+        "viewCount": 1648205,
+        "likeCount": 62025,
+        "publishedAt": "2019-12-09T19:15:01Z"
+      },
+      {
+        "videoId": "FtaQSdrl7YA",
+        "title": "JavaScript Tutorial for Beginners [JS Crash Course]",
+        "viewCount": 386392,
+        "likeCount": 8774,
+        "publishedAt": "2024-02-28T15:03:22Z"
+      },
+      {
+        "videoId": "I5_Gx3JNho8",
+        "title": "How To Master JavaScript",
+        "viewCount": 1282392,
+        "likeCount": 45420,
+        "publishedAt": "2024-05-29T19:37:45Z"
+      },
+      {
+        "videoId": "zofMnllkVfI",
+        "title": "JavaScript - Introduction - W3Schools.com",
+        "viewCount": 108160,
+        "likeCount": 1911,
+        "publishedAt": "2024-12-11T13:01:17Z"
+      },
+      {
+        "videoId": "PkZNo7MFNFg",
+        "title": "Learn JavaScript - Full Course for Beginners",
+        "viewCount": 20131927,
+        "likeCount": 282594,
+        "publishedAt": "2018-12-10T14:13:40Z"
+      },
+      {
+        "videoId": "tZTqoIh30Og",
+        "title": "Every Beginner JavaScript Dev Needs to Know This Trick!",
+        "viewCount": 5,
+        "likeCount": 0,
+        "publishedAt": "2025-09-17T10:44:24Z"
+      },
+      {
+        "videoId": "EerdGm-ehJQ",
+        "title": "JavaScript Full Course - Beginner to Pro",
+        "viewCount": 6574514,
+        "likeCount": 134198,
+        "publishedAt": "2024-05-09T07:28:14Z"
+      },
+      {
+        "videoId": "xB3ZmUH6GqU",
+        "title": "How to Learn JavaScript FAST in 2025",
+        "viewCount": 138404,
+        "likeCount": 7105,
+        "publishedAt": "2025-04-01T14:30:29Z"
+      },
+      {
+        "videoId": "mc0s-viF7q4",
+        "title": "Learning JavaScript for the First Time After HTML and CSS",
+        "viewCount": 572103,
+        "likeCount": 12425,
+        "publishedAt": "2021-09-24T10:30:17Z"
+      },
+      {
+        "videoId": "TjjKcgtlsY8",
+        "title": "JavaScript Speed Course - Learn JavaScript in ~75 Minutes",
+        "viewCount": 92642,
+        "likeCount": 2844,
+        "publishedAt": "2024-11-11T16:22:07Z"
+      },
+      {
+        "videoId": "voLJ3CmaM1s",
+        "title": "Learn JavaScript in 60 Minutes: The Ultimate Beginner Course!",
+        "viewCount": 44446,
+        "likeCount": 1596,
+        "publishedAt": "2025-07-13T06:30:35Z"
+      },
+      {
+        "videoId": "xwKbtUP87Dk",
+        "title": "JavaScript Basics in 10 Minutes",
+        "viewCount": 306606,
+        "likeCount": 6994,
+        "publishedAt": "2018-05-30T16:00:05Z"
+      },
+      {
+        "videoId": "uh4gG7LbDPQ",
+        "title": "Learn JavaScript: Tutorial for Beginners (Part 1)",
+        "viewCount": 145630,
+        "likeCount": 1186,
+        "publishedAt": "2023-01-26T21:29:57Z"
+      },
+      {
+        "videoId": "lfmg-EJ8gm4",
+        "title": "JavaScript Full Course for free \ud83c\udf10 (2024)",
+        "viewCount": 4120774,
+        "likeCount": 98697,
+        "publishedAt": "2024-01-01T14:30:18Z"
+      },
+      {
+        "videoId": "VoKFyB1q4fc",
+        "title": "JavaScript explained in just 7 Minutes!",
+        "viewCount": 94420,
+        "likeCount": 4780,
+        "publishedAt": "2025-06-26T13:51:31Z"
+      },
+      {
+        "videoId": "dIx23d92nwY",
+        "title": "Make Your Website Pop with Anime.js #CrazyWebsite #WebDesign #WebDev #Animation #JavaScript #AnimeJS",
+        "viewCount": 147081,
+        "likeCount": 10089,
+        "publishedAt": "2025-06-25T22:54:23Z"
+      },
+      {
+        "videoId": "qC-Yadx3O4A",
+        "title": "Simple JavaScript Basics #javascript #code #tutorial #javascriptdeveloper",
+        "viewCount": 480133,
+        "likeCount": 11918,
+        "publishedAt": "2024-05-16T20:27:26Z"
+      },
+      {
+        "videoId": "eiC58R16hb8",
+        "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+        "viewCount": 955020,
+        "likeCount": 56498,
+        "publishedAt": "2024-04-04T13:56:31Z"
+      },
+      {
+        "videoId": "WRlfwBof66s",
+        "title": "Aprenda JAVASCRIPT em apenas 5 MINUTOS (2023)",
+        "viewCount": 241796,
+        "likeCount": 20700,
+        "publishedAt": "2021-09-27T21:00:08Z"
+      },
+      {
+        "videoId": "hdI2bqOjy3c",
+        "title": "JavaScript Crash Course For Beginners",
+        "viewCount": 4433881,
+        "likeCount": 79635,
+        "publishedAt": "2019-03-13T15:46:32Z"
+      },
+      {
+        "videoId": "GO_sp-Wl00M",
+        "title": "HTML Input Tags List Tutorial For Beginners (Web Development)",
+        "viewCount": 755850,
+        "likeCount": 23176,
+        "publishedAt": "2024-07-25T15:30:06Z"
+      },
+      {
+        "videoId": "jNgppRzIaMc",
+        "title": "How to master javascript",
+        "viewCount": 494376,
+        "likeCount": 37685,
+        "publishedAt": "2024-07-21T10:35:16Z"
+      },
+      {
+        "videoId": "IC5vBKc21X8",
+        "title": "JavaScript Programming Tutorial for Beginners",
+        "viewCount": 416343,
+        "likeCount": 6945,
+        "publishedAt": "2022-08-09T10:36:21Z"
+      },
+      {
+        "videoId": "5-oiLKEWIEw",
+        "title": "Best Programming Languages #programming #coding #javascript",
+        "viewCount": 8151260,
+        "likeCount": 240478,
+        "publishedAt": "2023-05-01T03:26:26Z"
+      },
+      {
+        "videoId": "y2OHIr_CZ4s",
+        "title": "Pikachu | HTML CSS JavaScript",
+        "viewCount": 1161284,
+        "likeCount": 73037,
+        "publishedAt": "2023-05-25T03:10:04Z"
+      },
+      {
+        "videoId": "I-pr5Gc89mU",
+        "title": "\ud83d\ude80 Create a Stunning 3D Cube with HTML, CSS & JavaScript! | Web Animation Tutorial",
+        "viewCount": 101163,
+        "likeCount": 1738,
+        "publishedAt": "2025-03-27T13:30:13Z"
+      },
+      {
+        "videoId": "EfAl9bwzVZk",
+        "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+        "viewCount": 807950,
+        "likeCount": 15476,
+        "publishedAt": "2021-01-20T15:30:01Z"
+      },
+      {
+        "videoId": "ZIITFSvhmkY",
+        "title": "Add JavaScript to an HTML file - JavaScript Tutorial for Beginners 2022",
+        "viewCount": 54662,
+        "likeCount": 193,
+        "publishedAt": "2022-10-21T14:51:17Z"
+      },
+      {
+        "videoId": "4PZeIwXx1hc",
+        "title": "Maps Are A Game Changer For JavaScript",
+        "viewCount": 1164102,
+        "likeCount": 53218,
+        "publishedAt": "2023-01-12T17:00:03Z"
+      },
+      {
+        "videoId": "_i88AuoEBbc",
+        "title": "COMPLETE Beginner\u2019s Guide to JavaScript",
+        "viewCount": 27497,
+        "likeCount": 1842,
+        "publishedAt": "2024-12-03T21:00:31Z"
+      },
+      {
+        "videoId": "Xk3HNlc5jfk",
+        "title": "Simple REST API with Node.js and Express - JavaScript Tutorial for Beginners",
+        "viewCount": 128936,
+        "likeCount": 1814,
+        "publishedAt": "2022-10-20T23:03:23Z"
+      },
+      {
+        "videoId": "e2fKYP_7B_Y",
+        "title": "JavaScript for Beginners | Learn JavaScript in one hour!",
+        "viewCount": 171751,
+        "likeCount": 5013,
+        "publishedAt": "2024-03-31T10:30:11Z"
+      },
+      {
+        "videoId": "mJTeFxSehNA",
+        "title": "JavaScript Tutorial for Beginners: The Language Itself",
+        "viewCount": 23353,
+        "likeCount": 974,
+        "publishedAt": "2024-07-29T22:00:29Z"
+      },
+      {
+        "videoId": "0EQjoRLe1EU",
+        "title": "Build a Rock Paper Scissors Game with HTML, CSS & JavaScript | Beginner to Pro!",
+        "viewCount": 188666,
+        "likeCount": 3042,
+        "publishedAt": "2025-03-04T13:30:00Z"
+      },
+      {
+        "videoId": "fGQckyRlAOY",
+        "title": "JavaScript Coding Interview Question | @ApnaCollegeOfficial",
+        "viewCount": 1152857,
+        "likeCount": 92377,
+        "publishedAt": "2023-10-12T13:33:29Z"
+      },
+      {
+        "videoId": "m55PTVUrlnA",
+        "title": "All The JavaScript You Need To Know For React",
+        "viewCount": 825016,
+        "likeCount": 34811,
+        "publishedAt": "2022-02-01T14:00:14Z"
+      },
+      {
+        "videoId": "yAdFPFE-EJo",
+        "title": "#day64 - Can you solve these #javascript questions asked in #deloitte interview #coding #frontend",
+        "viewCount": 288287,
+        "likeCount": 6980,
+        "publishedAt": "2024-11-22T15:20:47Z"
+      },
+      {
+        "videoId": "T4VqMc4ccs4",
+        "title": "Using Threejs as a frontend developer #threejs #javascript #frontend #frontenddevelopment",
+        "viewCount": 30109,
+        "likeCount": 1161,
+        "publishedAt": "2025-03-25T15:06:35Z"
+      },
+      {
+        "videoId": "jS4aFq5-91M",
+        "title": "JavaScript Programming - Full Course",
+        "viewCount": 3860912,
+        "likeCount": 83128,
+        "publishedAt": "2021-06-21T16:42:15Z"
+      },
+      {
+        "videoId": "Y3Lmf5QoaKA",
+        "title": "Created Reptile | HTML | CSS | Javascript #youtubeshorts #trending #coding #animation #ai #learning",
+        "viewCount": 3903251,
+        "likeCount": 156653,
+        "publishedAt": "2024-08-19T02:52:59Z"
+      },
+      {
+        "videoId": "VUmqnkDTHiM",
+        "title": "Best example of html css javascript| code with harry| #html #css #javascript",
+        "viewCount": 2288274,
+        "likeCount": 32617,
+        "publishedAt": "2025-01-15T01:39:23Z"
+      },
+      {
+        "videoId": "5XaCpNWRB_Q",
+        "title": "Typescript vs Javascript Check out the Link in Bio for free live Masterclass#coding #programming #ad",
+        "viewCount": 122544,
+        "likeCount": 6902,
+        "publishedAt": "2024-03-24T07:47:16Z"
+      },
+      {
+        "videoId": "PlbupGCBV6w",
+        "title": "#0 JavaScript Tutorial for Beginners | Introduction",
+        "viewCount": 746388,
+        "likeCount": 11163,
+        "publishedAt": "2021-05-04T15:05:45Z"
+      },
+      {
+        "videoId": "nF13693R0sU",
+        "title": "Best sites to learn JavaScript for free",
+        "viewCount": 73532,
+        "likeCount": 4335,
+        "publishedAt": "2022-01-25T22:00:27Z"
+      },
+      {
+        "videoId": "QdI6RgZaLEs",
+        "title": "Charlie Chaplin with html and css| javascript full course| code with harry| #html #css #coding",
+        "viewCount": 812022,
+        "likeCount": 21399,
+        "publishedAt": "2025-01-17T07:04:45Z"
+      },
+      {
+        "videoId": "8GTaO9XhA5M",
+        "title": "Aprende JavaScript en 10 minutos \ud83d\udc68\u200d\ud83d\udcbb",
+        "viewCount": 372851,
+        "likeCount": 22491,
+        "publishedAt": "2021-07-23T15:00:11Z"
+      },
+      {
+        "videoId": "FOD408a0EzU",
+        "title": "How To Create/Use Functions - JavaScript Essentials",
+        "viewCount": 182611,
+        "likeCount": 5436,
+        "publishedAt": "2023-03-04T17:00:15Z"
+      }
+    ]
+  }
+}
