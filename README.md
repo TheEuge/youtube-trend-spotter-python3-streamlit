@@ -31,7 +31,7 @@ youtube-trend-spotter-python3-streamlit/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TheEuge/youtube-trend-spotter-python3-streamlit
    cd youtube-trend-spotter-python3-streamlit
 
 2. **Set Up a Virtual Environment**
